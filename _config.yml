@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Acensor programado con plc alimentado por energia solar"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Nuestro proyecto se trata de un acensor que se alimenta con energia renovable en este caso energia solar ."
+  bio              : "Nuestro proyecto se trata de un acensor que se alimenta con energia renovable en este caso energia solar."
   location         : "Universidad ECCI"
   email            :
   links:

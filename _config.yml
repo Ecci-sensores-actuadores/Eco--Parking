@@ -111,7 +111,7 @@ author:
   email            : "Sergiofa.guzmanpu@ecci.edu.co"
   links:
     - label: "Email"
-      icon: "Sergiofa.guzmanpu@ecci.edu.co"
+      icon: "fas fa-fw fa-link"
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"

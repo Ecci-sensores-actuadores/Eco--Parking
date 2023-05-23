@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Nuestro proyectose trata de un asensor el cual se alimenta atravez de energia renobable en este caso energia solar."
   location         : "Universidad ECCI"
-  email            : "sergiofa.guzmanpu@ecci.edu.co
+  email            : "sergiofa.guzmanpu@ecci.edu.co"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-link"

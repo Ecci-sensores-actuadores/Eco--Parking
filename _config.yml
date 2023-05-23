@@ -108,9 +108,9 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Nuestro proyecto "
   location         : "Universidad ECCI"
-  email            :
+  email            : "Sergiofa.guzmanpu@ecci.edu.co"
   links:
-  label: "Email"
+    - label: "Email"
       icon: "Sergiofa.guzmanpu@ecci.edu.co"
       # url: "mailto:your.name@email.com"
     - label: "Website"

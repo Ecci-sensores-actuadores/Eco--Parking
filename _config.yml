@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Acensor programado con plc alimentado por energia solar"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Nuestro proyecto."
+  bio              : "Nuestro proyectose trata de un asensor el cual se alimenta atravez de energia renobable en este caso energia solar."
   location         : "Universidad ECCI"
-  email            : 
+  email            : "sergiofa.guzmanpu@ecci.edu.co
   links:
     - label: "Email"
       icon: "fas fa-fw fa-link"

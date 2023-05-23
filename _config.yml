@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Acensor programado con plc alimentado por energia solar"
+  name             : "Estacionamiento renobable"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Nuestro proyectose trata de un asensor el cual se alimenta atravez de energia renobable en este caso energia solar."
   location         : "Universidad ECCI"

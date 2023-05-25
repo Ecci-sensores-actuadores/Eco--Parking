@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Estacionamiento renobable"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Nuestro proyectose trata de un asensor-parqueadero el cual se alimenta atravez de energia renobable en este caso energia solar,Nuestro acensor-parqueaderocuenta con 3 niveles los cuales se pueden acceder atravez de una pantalla en la parte derecha de nuestro edificio. alli podra encontrar todas las epecificaciones para acceder a cada nivel "
+  bio              : "Bienvenidos a nuestro proyecto, este es una innovación la cual está pensada en ser autosostenible a futuro, ya una parte importante del él (los motores) está siendo alimentado por fuentes de energía renovable por medio de panel solar, al igual que muchos de los materiales son reciclados de la estructura durante la creación, a pesar de ser pequeño desearíamos algún día llevar a gran escala, para demostrar la importancia de ser autosustentable. Este se trata de un ascensor de parqueadero de vehículos, el cual tiene sistema de poleas y es controlado por medio de un PLC el cual recibe señales de los sensores en cada piso y la cual la programación realiza acciones en conjunto con la pantalla HMI el cual me da como acción el movimiento al piso requerido indicando si quiere subir o bajar anteriormente."
   location         : "Universidad ECCI"
   email            : "sergiofa.guzmanpu@ecci.edu.co"
   links:
